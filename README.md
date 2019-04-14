@@ -1,2 +1,2 @@
-# Assignmentpython1to5
-Store python code related to data science course
+# Session1_Python1
+Contains the solution to assignment of Python-1 session
